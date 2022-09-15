@@ -1,2 +1,2 @@
 # Foliar-Diseases-Classification
-Project 3
+Identify the category of foliar diseases in apple trees
